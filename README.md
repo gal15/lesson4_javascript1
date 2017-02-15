@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gray Larson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Created a monthly expenses precentage calculator using javascript.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
